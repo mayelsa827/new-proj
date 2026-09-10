@@ -4,3 +4,5 @@ add = num1 + num2
 print("Addition:", add)
 mul = num1 * num2
 print("Multiplication:", mul)
+div = num1 / num2
+print("Division:", div)
